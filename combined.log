@@ -1,0 +1,17 @@
+error: the given product quantity is nill
+info: sucess
+info: sucess
+info: sucess
+error: this is an error message
+info: this is in combined
+error: the given product quantity is nill
+error: the given product quantity is nill
+{"level":"error","message":"the given product quantity is nill"}
+{"level":"info","message":"sucess"}
+{"level":"info","message":"sucess","timestamp":"2023-10-27T05:23:12.659Z"}
+{"level":"error","message":"the given product quantity is nill","timestamp":"2023-10-27T05:25:35.050Z"}
+info: sucess {"timestamp":"2023-10-27T05:28:03.554Z"}
+info: sucess {"timestamp":"2023-10-27T05:29:03.879Z"}
+info: undefined {"timestamp":"2023-10-27T05:29:34.670Z"}
+{"level":"info","message":"sucess","timestamp":"2023-10-27T05:32:44.278Z"}
+{"level":"error","message":"pls choose lesser quantity for the product","timestamp":"2023-10-27T05:32:56.579Z"}
